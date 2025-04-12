@@ -10,3 +10,6 @@ Another key objective is to understand how movie popularity and ratings have evo
 Furthermore, through the use of data visualization libraries like Seaborn and Matplotlib, the project aims to present findings in a clear, engaging, and interpretable manner. Line plots, bar charts, box plots, and donut charts are used to effectively communicate results and highlight key observations.
 
 In summary, the goal is to transform a raw movie dataset into actionable insights through data preprocessing, statistical analysis, and visualization, ultimately supporting better content planning, marketing strategies, and user recommendation systems within the entertainment industry.
+
+##Dataset Link--
+<a href="https://github.com/a-aanchal/Analysis-Movie-Trends-/blob/main/mymoviedb.csv"></a>
